@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Desiging and Development.
 - 🌱 I’m currently learning Laravel and WordPress.
 - 💞️ I’m looking for a Job.
-- 👩‍💻 My personal website - https://manishaportfolio.netlify.app/
+- 👩‍💻 My personal Portfolio website - https://manishaportfolio.netlify.app/
 - 📫 How to reach me manishavkapex1@gmail.com
 
 <!---
