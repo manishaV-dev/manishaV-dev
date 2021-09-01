@@ -4,6 +4,7 @@
 - 💞️ I’m looking for a Job.
 - 👩‍💻 My personal Portfolio website - https://manishaportfolio.netlify.app/
 - 📫 How to reach me manishavkapex1@gmail.com
+- 📫 LinkedIn Profile - https://www.linkedin.com/in/manisha-varma-2526ba217/
 
 <!---
 manishaV-dev/manishaV-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
