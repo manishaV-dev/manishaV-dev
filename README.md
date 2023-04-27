@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @manishaV-dev
-- 👩‍ I’m a Web Developer.
-- 🎨Crafting Frontend with - react.js, next.js, tailwind.css & many more.
-- 👩‍💻 For Backend - JavaScript, Core PHP, Laravel, API Integration 
+- 💼 I'm a Front-end Developer at DTH LMS Solution Infotech.
+- 🎨Crafting Frontend with - html, css, JS, react.js, next.js, tailwind.css & many more.
+- 👩‍💻 For Backend -  Core PHP, Laravel, API Integration 
 - 👩‍💻 Intern at Rasacode Technologies pvt ltd as a Web Developer.
-- 👀 I’m looking for a full-time web developer job.
 - 👩‍💻 My personal Portfolio website - https://manishaportfolio.netlify.app/
 - 📧 How to reach me manishavkapex1@gmail.com
 - 📫 LinkedIn Profile - https://www.linkedin.com/in/manisha-varma-2526ba217/
