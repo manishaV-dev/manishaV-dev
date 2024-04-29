@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manisha Varma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" alt="Manisha Varma" width="300">
+
 - 💼 I'm a Front-end Developer at DTH LMS Solution Infotech.
   
 - 🌱 I’m currently learning **Backend Development**
