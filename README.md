@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manisha Varma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 💼 I'm a Front-end Developer at DTH LMS Solution Infotech.
+  
+- 🌱 I’m currently learning **Backend Development**
+  
+- 🎨Crafting Frontend with - html, css, JS, react.js, next.js, tailwind.css & many more.
 
 - 👨‍💻 My personal Portfolio website [https://manishaportfolio.netlify.app/](https://manishaportfolio.netlify.app/)
 
