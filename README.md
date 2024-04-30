@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Manisha Varma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" alt="Manisha Varma" width="300">
+<img align="right" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952m7ke8fvze9rqcvq786d1oaj97ir4nh31h6kjomy1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Manisha Varma" width="300">
 
 - 💼 I'm a Front-end Developer at DTH LMS Solution Infotech.
   
 - 🌱 I’m currently learning **Backend Development**
-  
-- 🎨Crafting Frontend with - html, css, JS, react.js, next.js, tailwind.css & many more.
 
 - 👨‍💻 My personal Portfolio website [https://manishaportfolio.netlify.app/](https://manishaportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, React, Next, Tailwind**
-
 - 📫 How to reach me **manishavkapex1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manisha-varma-2526ba217/](https://www.linkedin.com/in/manisha-varma-2526ba217/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
