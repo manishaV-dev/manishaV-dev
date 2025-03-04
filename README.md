@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manisha Varma</h1>
+<h1 align="center">Hi 👋, I'm Manisha Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <img align="right" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952m7ke8fvze9rqcvq786d1oaj97ir4nh31h6kjomy1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Manisha Varma" width="300">
