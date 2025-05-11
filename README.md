@@ -3,11 +3,11 @@
 
 <img align="right" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952m7ke8fvze9rqcvq786d1oaj97ir4nh31h6kjomy1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Manisha Varma" width="300">
 
-- 💼 I'm a Front-end Developer at DTH LMS Solution Infotech.
+- 💼 I'm a Front-end Developer at Klizo Solutions.
   
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 My personal Portfolio website [https://manishaportfolio.netlify.app/](https://manishaportfolio.netlify.app/)
+- 👨‍💻 My personal Portfolio website [https://manisha-gupta-portfolio.netlify.app/](https://manisha-gupta-portfolio.netlify.app/)
 
 - 📫 How to reach me **manishavkapex1@gmail.com**
 
